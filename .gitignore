@@ -1,0 +1,5 @@
+node_modules/
+cucumber-reports/
+reports/
+package-lock.json
+.vscode/
